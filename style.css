@@ -410,7 +410,7 @@ body {
   color: black;
   width: 300px;
   height: auto;
-  max-height: 800px;
+  max-height: 900px;
   border-radius: 8px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
     rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
@@ -438,9 +438,6 @@ body {
 .card-imgs {
   transition: all 0.5s;
 }
-.click {
-  display: hidden;
-}
 .text {
   width: 100vw;
   margin: -40px 0 60px 0;
@@ -453,4 +450,5 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+
 }
